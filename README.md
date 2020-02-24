@@ -13,4 +13,4 @@ enllaços treballs
 
 * .[mondrian](https://adacardona.github.io/mondrian/)
 
-* .[animal] (https://adacardona.github.io/Animal/)
+* .[animal](https://adacardona.github.io/animal/)
