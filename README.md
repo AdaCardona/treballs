@@ -17,4 +17,4 @@ enllaços treballs
 
 * .[llapis](https://adacardona.github.io/Llapis/)
 
-* .[llapis](https://adacardona.github.io/Portfolio/)
+* .[Portfolio](https://adacardona.github.io/Portfolio/)
